@@ -4,9 +4,8 @@
 This landing page was created as the first coding challenge during the Rutgers coding bootcamp. It contains linked HTML and CSS files that demonstrate basic understanding of semantic elements and syntax.
 
 #Screenshot
-![Screenshot (421)](https://github.com/Zero-0X/Challenge_1_Horiseon_webpage/assets/110013207/efb75d42-ed9a-46ea-b882-8501f14f0a58)
-![Screenshot (422)](https://github.com/Zero-0X/Challenge_1_Horiseon_webpage/assets/110013207/59e34ca1-ad7a-4b2b-a759-08da36f33746)
-
+![Screenshot (423)](https://github.com/Zero-0X/Challenge_1_Horiseon_webpage/assets/110013207/617e6907-3b12-4ef8-ab68-b5c49f196609)
+![Screenshot (424)](https://github.com/Zero-0X/Challenge_1_Horiseon_webpage/assets/110013207/a5bc95d5-f4b5-477e-b83e-dd1e1edb858f)
 
 # Installation
 N/A
